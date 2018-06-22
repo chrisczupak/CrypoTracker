@@ -7,7 +7,25 @@
 		<key>CryptoTracker.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E25095C920D6D1F90053A65A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E25095DD20D6D1F90053A65A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E25095E820D6D1F90053A65A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

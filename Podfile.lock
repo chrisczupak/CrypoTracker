@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.6.0)
+  - BrightFutures (6.0.0):
+    - Result (~> 3.2.4)
+  - Result (3.2.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - BrightFutures (~> 6.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  BrightFutures: 9e7604f511aed9f0d6a49b04ac9b3fca6b117758
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+
+PODFILE CHECKSUM: e3f19e5cbd80f74025517b94e1a8d7127bb2bcd3
+
+COCOAPODS: 1.4.0
